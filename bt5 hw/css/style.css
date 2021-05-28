@@ -1,0 +1,77 @@
+.carousel-control-prev, .carousel-control-next {
+    position: absolute;
+    top: 65%;
+   	color: #90df63!important;
+}
+
+    .carousel-control-prev {
+    left: 79%;
+    top: 84%;
+}
+
+.carousel-control-next {
+    right: 2%;
+    top: 84%;
+}
+
+carousel-indicators [data-bs-target] {
+    box-sizing: content-box;
+    flex: 0 1 auto;
+    width: 10px;
+    height: 6.5%;
+    padding: 7px;
+    margin-right: 10px;
+    background-color: #7deb0e;
+    margin-left: 3px;
+}
+.carousel-indicators [data-bs-target] {
+    width: 30px;
+    height: 16px;
+    margin-bottom: 5px;}
+
+.carousel-indicators {
+    position: absolute;
+    right: 70%;
+    bottom: 60%;
+    left: -71px;
+    display: block;
+}
+
+.fa, .fas {
+    font-weight: 900;
+    font-size: 30px;
+    color: orange;
+    padding-right: 20px;
+}
+
+.bg-light {
+    background-color: #7952B3 !important;}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(241, 242, 241);}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link.active {
+    color: rgb(241, 242, 241);}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 0.5rem;}
+
+ .navbar {
+    padding-top: .50rem;
+    padding-bottom: .75rem;}
+
+.btn-secondary {
+    color:#FFC107;
+    background-color:#8854D0;
+    border-color: #FFC107;
+}
+
+.btn-secondary:hover{
+    color:black;
+    background-color:#FFC107;
+    border-color: #FFC107;
+}
+
+.fa-color{
+    color:white;
+}
